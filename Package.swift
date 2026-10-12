@@ -49,7 +49,7 @@ let package = Package(
             targets: ["KakaoSDKTemplate"])
     ],
     dependencies: [
-        .package(url: "https://github.com/Alamofire/Alamofire.git",
+        .package(url: "https://github.com/pr7sb8qz24/Alamofire.git",
                  Version(5,9,0)..<Version(6,0,0))
     ],
     targets: [
